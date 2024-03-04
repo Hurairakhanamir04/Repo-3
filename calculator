@@ -6,4 +6,5 @@ cout << "23-st-024" << endl;
 cout<<"The addition of two number:"<< a + b << endl;
 cout<<"The subtraction of two number:"<< a - b << endl;
 cout<<"The multiplication of two number:"<< a * b << endl;
+cout<<"The multiplication of two number:"<< a * b << endl;
 }
