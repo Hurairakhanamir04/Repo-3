@@ -3,4 +3,5 @@ using namespace std;
 int main () {
 cout << "Huraira Khan" << endl;
 cout << "23-st-024" << endl;
+cout<<"The addition of two number:"<< a + b << endl;
 }
