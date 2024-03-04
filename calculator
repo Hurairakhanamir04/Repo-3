@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main () {
+cout << "Huraira Khan" << endl;
+cout << "23-st-024" << endl;
+}
